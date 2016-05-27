@@ -1,6 +1,5 @@
 package UI;
 
-import Logic.EV3Server;
 
 public class Main {
 
